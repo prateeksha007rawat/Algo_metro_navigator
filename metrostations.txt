@@ -1,0 +1,173 @@
+yellow
+samaypurbadli  0
+jahangirpuri 1
+azadpur  2
+modeltown 3
+vidhansabha 4
+civillines 5
+kashmeregate 6
+chandanichowk 7
+newdelhi 8
+rajivchowk 9
+centralsecretariate 10
+jorbagh 11
+INA 12
+greenpark 13
+hauzkhasenclave 14
+saket 15
+qutabminar 16
+sultanpur 17
+gurudronacharya 18
+mgroad 19
+hudacitycentre 20
+
+violet
+lalquila 21
+jamamasjid 22
+ITO 23
+mandihouse 24
+khanmarket 25
+jangpura 26
+lajpatnagar 27
+moolchand 28
+kalkajimandir 29
+saritavihar 30
+sarai 31
+badkalmor 32
+oldfaridabad 33
+rajanaharsingh 34
+
+blue
+karolbagh 35
+rajendarplace 36
+shadipur 37
+kirtinagar 38
+motinagar 39
+rameshnagar 40
+rajourigarden 41
+tagoregarden 42
+tilaknagar 43
+janakpuri(w) 44
+dwarkamor 45
+dwarkasector13 46
+dwarkasector12 47
+dwarkasector11 48
+dwarkasector10 49
+dwarkasector21 50
+barakhambaroad 51
+pragatimaidan 52
+indraprastha 53
+yamunabank 54
+laxminagar 55
+nirmanvihar 56
+karkarduma 57
+anandvihar 58
+kaushambi 59
+vaishali 60
+akshardham 61
+mayurvihar1 62
+mayurviharextension 63
+noidasector15 64
+noidasector16 65
+noidasector18 66
+botanicalgarden 67
+noidacitycenter 68
+sector52 69
+sector62 70
+noidaelectroniccity 71
+
+aqua
+noidasector71 72
+dadriroad 73
+noidasector83 74
+noidasector137 75
+noidasector143 76
+noidasector148 77
+knowledgepark 78
+parichowk 79
+depotstation 80
+
+orange
+shivajistadium 81
+dhaulakhan 82
+indiragandhiinternationalairport  83
+
+magenta
+dashrathpuri 84
+palam 85
+vasantvihar 86
+munirka 87
+IIT 88
+panchsheelpark 89
+greaterkailash 90
+nehruenclave 91
+jamiamilliaislamia 92
+okhlavihar 93
+kalindikunj 94
+okhlabirdsanctuary 95
+
+green
+bahadurgarhcitypark 96
+modernindustrialestate(MIE) 97
+mundkaindustrialarea(MIA) 98
+nangloi 99
+peeragarhi 100
+madipur 101
+shakurpur 102
+punjabibagh 103
+ashokparkmain 104
+satgururamsingh 105
+inderlok 106
+
+red
+rithala 107
+rohini(e) 108
+kohatenclave 109
+netajisubhashplace 110
+kanhaiyanagar 111
+pratapnagar 112
+tishazari 113
+shastripark 114 
+seelampur 115
+welcome 116
+shahdara 117
+jhilmil 118
+dilshadgarden 119
+
+pink
+majlispark 120
+shalimarbagh 121
+shakurpur 122
+ESIhospital 123
+mayapuri 124
+delhicantt 125
+lokkalyanmarg 126
+bhikajicamaplace 127
+sarojininagar 128
+southextension 129
+vinobapuri 130
+hazratnizamuddin 131
+mayurviharpkt1 132
+trilokpuri 133
+IPextension 134
+krishnanagar 135
+eastazadnagar 136
+jaffrabad 137
+gokulpuri 138
+shivvihar 139
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
